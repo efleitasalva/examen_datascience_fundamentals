@@ -4,3 +4,4 @@ Instalar libs:
 - numpy as np
 - scipy.stats (import zscore)
 - matplotlib.pyplot
+- seaborn
